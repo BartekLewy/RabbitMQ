@@ -1,0 +1,12 @@
+{
+    "name": "bartoszlewandowski/rabbitmq",
+    "authors": [
+        {
+            "name": "Bartosz Lewandowski",
+            "email": "lewandowskibartosz@icloud.com"
+        }
+    ],
+    "require": {
+        "php-amqplib/php-amqplib": "^2.8"
+    }
+}
